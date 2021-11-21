@@ -1,0 +1,51 @@
+{
+  "id": "2950993",
+  "name": "ad",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1048888",
+      "name": "错误",
+      "font_class": "icon_wrong",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "880499",
+      "name": "设置",
+      "font_class": "setupb",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "1929149",
+      "name": "警告",
+      "font_class": "jinggao",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "1509742",
+      "name": "机器人头像",
+      "font_class": "robot",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "21497145",
+      "name": "用户反馈",
+      "font_class": "yonghufankuibeifen",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "577344",
+      "name": "客服-fill",
+      "font_class": "kefufill",
+      "unicode": "e740",
+      "unicode_decimal": 59200
+    }
+  ]
+}
